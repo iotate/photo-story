@@ -28,27 +28,27 @@
 
 ### 纪念堂 / Memorial Hall
 
-| 原图 | 东方故事风格 |
-|------|-------------|
-| ![纪念堂原图](examples/Memorial-Hall-photo.jpg) | ![纪念堂东方故事风格](examples/Memorial-Hall-story.png) |
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story.png" alt="纪念堂东方故事风格" width="45%">
+
+*左：原图 | 右：东方故事风格*
 
 ### 山景 / Mountain
 
-| 原图 | 东方故事风格 |
-|------|-------------|
-| ![山景原图](examples/Mountain-photo.jpg) | ![山景东方故事风格](examples/Mountain-story.png) |
+<img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story.png" alt="山景东方故事风格" width="45%">
+
+*左：原图 | 右：东方故事风格*
 
 ### 来福士 / Raffles
 
-| 原图 | 东方故事风格 |
-|------|-------------|
-| ![来福士原图](examples/Raffles-photo.jpg) | ![来福士东方故事风格](examples/Raffles-story.png) |
+<img src="examples/Raffles-photo.jpg" alt="来福士原图" width="45%"> <img src="examples/Raffles-story.png" alt="来福士东方故事风格" width="45%">
+
+*左：原图 | 右：东方故事风格*
 
 ### 上海天际线 / Shanghai Skyline
 
-| 原图 | 东方故事风格 |
-|------|-------------|
-| ![上海天际线原图](examples/shanghai-photo.jpg) | ![上海天际线东方故事风格](examples/shanghai-story.png) |
+<img src="examples/shanghai-photo.jpg" alt="上海天际线原图" width="45%"> <img src="examples/shanghai-story.png" alt="上海天际线东方故事风格" width="45%">
+
+*左：原图 | 右：东方故事风格*
 
 ### 时间质感
 | 风格 | 特征 | 故事感 |
