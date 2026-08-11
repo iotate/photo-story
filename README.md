@@ -15,6 +15,7 @@
 ## 支持的风格
 
 ### 默认推荐
+
 | 风格 | 特征 | 故事感 |
 |-----|------|-------|
 | **东方故事** | 暖象牙白纸张底色 + 原图特征性色彩调整为东方美学色调 + 大量留白 | 东方克制美学、诗意意境、留白之美 |
@@ -24,40 +25,54 @@
 - 保留原图特征性色彩，调整为东方美学色调（朱砂红、石青蓝、赭石褐、藤黄等）
 - 不是银盐相纸、复古摄影、手工上色风格
 
-## 风格对比示例
+### 东方故事风格示例
 
-### 纪念堂 / Memorial Hall
+**纪念堂 / Memorial Hall**
 
 <img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story.png" alt="纪念堂东方故事风格" width="45%">
 
 *左：原图 | 右：东方故事风格*
 
-### 山景 / Mountain
+**山景 / Mountain**
 
 <img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story.png" alt="山景东方故事风格" width="45%">
 
 *左：原图 | 右：东方故事风格*
 
-### 来福士 / Raffles
+**来福士 / Raffles**
 
 <img src="examples/Raffles-photo.jpg" alt="来福士原图" width="45%"> <img src="examples/Raffles-story.png" alt="来福士东方故事风格" width="45%">
 
 *左：原图 | 右：东方故事风格*
 
-### 上海天际线 / Shanghai Skyline
+**上海天际线 / Shanghai Skyline**
 
 <img src="examples/shanghai-photo.jpg" alt="上海天际线原图" width="45%"> <img src="examples/shanghai-story.png" alt="上海天际线东方故事风格" width="45%">
 
 *左：原图 | 右：东方故事风格*
 
 ### 时间质感
+
 | 风格 | 特征 | 故事感 |
 |-----|------|-------|
 | 老照片 | 褪色、泛黄、颗粒、磨损 | 记忆、怀旧、时间流逝 |
 | 泛黄信纸 | 米黄底、褪色墨水、纸张纹理 | 私密、日常珍藏 |
 | 报纸印刷 | 点阵、半色调、新闻纸 | 历史记录、大众记忆 |
 
+**风格示例：老照片**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_vintage.png" alt="纪念堂老照片风格" width="45%">
+
+*左：原图 | 右：老照片风格*
+
+**风格示例：泛黄信纸**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_letterpaper.png" alt="纪念堂泛黄信纸风格" width="45%">
+
+*左：原图 | 右：泛黄信纸风格*
+
 ### 绘画质感
+
 | 风格 | 特征 | 故事感 |
 |-----|------|-------|
 | 铅笔画 | 石墨线条、纸张底纹、轻重变化 | 私密、观察者视角 |
@@ -67,14 +82,58 @@
 | 水彩画 | 流动色彩、透明叠加、水渍边缘 | 梦幻、诗意、转瞬即逝 |
 | 油画 | 厚重笔触、颜料堆积、画布纹理 | 经典、艺术价值 |
 
+**风格示例：铅笔画**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_pencil.png" alt="纪念堂铅笔画风格" width="45%">
+
+*左：原图 | 右：铅笔画风格*
+
+**风格示例：炭笔画**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_charcoal.png" alt="纪念堂炭笔画风格" width="45%">
+
+*左：原图 | 右：炭笔画风格*
+
+**风格示例：白描画**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_baimiao.png" alt="纪念堂白描画风格" width="45%">
+
+*左：原图 | 右：白描画风格*
+
+**风格示例：水彩画**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_watercolor.png" alt="纪念堂水彩画风格" width="45%">
+
+*左：原图 | 右：水彩画风格*
+
+**风格示例：油画**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_oilpainting.png" alt="纪念堂油画风格" width="45%">
+
+*左：原图 | 右：油画风格*
+
 ### 印刷质感
+
 | 风格 | 特征 | 故事感 |
 |-----|------|-------|
 | 木刻版画 | 粗犷线条、黑白对比、刀痕 | 质朴、力量、民间艺术 |
 | 丝网印刷 | 色块平涂、边缘清晰 | 波普艺术、大众文化 |
 | 浮世绘 | 平面装饰、轮廓线、木版纹理 | 东方古典、装饰美学 |
 
+**风格示例：木刻版画**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_woodcut.png" alt="纪念堂木刻版画风格" width="45%">
+
+*左：原图 | 右：木刻版画风格*
+
+**风格示例：丝网印刷**
+
+<img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story_silkscreen.png" alt="山景丝网印刷风格" width="45%">
+
+*左：原图 | 右：丝网印刷风格*
+
 ### 材质质感
+
 | 风格 | 特征 | 故事感 |
 |-----|------|-------|
 | 沙画 | 散点构成、流动感、无明确边界 | 转瞬即逝、无常 |
@@ -82,34 +141,65 @@
 | 刺绣 | 绣线纹理、针脚痕迹 | 手工、匠心、传承 |
 | 马赛克 | 方块拼接、色块组合 | 古典、永恒、碎片记忆 |
 
+**风格示例：沙画**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_sand.png" alt="纪念堂沙画风格" width="45%">
+
+*左：原图 | 右：沙画风格*
+
+**风格示例：剪纸**
+
+<img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story_mask.png" alt="山景剪纸风格" width="45%">
+
+*左：原图 | 右：剪纸风格*
+
 ### 数字质感
+
 | 风格 | 特征 | 故事感 |
 |-----|------|-------|
 | 像素艺术 | 可见像素块、低分辨率 | 复古游戏、数字记忆 |
-| 故障艺术 | 信号干扰、色彩偏移、撕裂 | 数字故障、未来感 |
 | 故障老照片 | 褪色 + RGB偏移混合 | 记忆损坏、时间侵蚀 |
 
+**风格示例：像素艺术**
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_pixel.png" alt="纪念堂像素艺术风格" width="45%">
+
+*左：原图 | 右：像素艺术风格*
+
+**风格示例：丝网印刷**
+
+<img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story_silkscreen.png" alt="山景丝网印刷风格" width="45%">
+
+*左：原图 | 右：丝网印刷风格*
+
 ### 自然质感
+
 | 风格 | 特征 | 故事感 |
 |-----|------|-------|
 | 树叶拼贴 | 树叶形状拼贴 | 自然、季节、手工 |
 | 光影投影 | 光线穿透形成投影 | 虚实、时间、空间 |
 
+**风格示例：树叶拼贴**
+
+<img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story_leaf.png" alt="山景树叶拼贴风格" width="45%">
+
+*左：原图 | 右：树叶拼贴风格*
+
 ## 风格选择指南
 
 ### 按照片类型
 - 人物肖像 → 老照片、铅笔画、白描、水彩
-- 建筑风景 → 白描、木刻、钢笔画、铅笔画
+- 建筑风景 → 东方故事、白描、木刻、钢笔画、铅笔画
 - 街景纪实 → 老照片、报纸印刷、铅笔速写
 - 自然风景 → 水彩、沙画、树叶拼贴
 - 静物器物 → 白描、铅笔、刺绣、油画
 
 ### 按期望情绪
 - 怀旧记忆 → 老照片、泛黄信纸、报纸印刷
-- 安静禅意 → 白描、水墨、铅笔画
+- 安静禅意 → 东方故事、白描、水墨、铅笔画
 - 艺术质感 → 油画、水彩、木刻版画
 - 童趣手工 → 剪纸、指画、树叶拼贴
-- 现代先锋 → 故障艺术、像素艺术、丝网印刷
+- 现代先锋 → 像素艺术、丝网印刷
 
 ## 安装
 
