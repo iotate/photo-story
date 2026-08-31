@@ -363,6 +363,8 @@
 | 潘通相框海报 | 白色相框、主体穿框、低饱和背景、潘通色号标签 | 高级编辑感、克制美学、现代设计 |
 | 杂志插画 | 极简几何、平涂色块、淡墨晕染、大面积留白 | 干净、克制、高级、学术感 |
 | 艺术海报 | 视觉记忆点、少量色块、印刷语言、淡黄白底色 | 极简、记忆点、设计感、印刷美学 |
+| 明信片 | 手绘明信片、手工纸背景、彩铅蜡笔质感、温暖治愈 | 温暖、治愈、生活记录感、手作感、复古感 |
+| 水墨插画 | 米白哑光特种纸、水墨扁平重构、随性淡墨晕染、大面积留白 | 随性水墨气韵、干净克制的学术质感、东方美学 |
 
 **风格示例：扁平海报风格**
 
@@ -443,6 +445,95 @@
 - 花卉植物、自然风景
 - 人像摄影、静物
 - 品牌视觉、编辑设计
+
+**风格示例：艺术海报**
+
+艺术海报风格是一种极简印刷美学风格：
+
+- **核心特征**：找到视觉记忆点，将复杂照片压缩成少量色块和轮廓
+- **设计流程**：分析主体、构图、空间关系 → 判断保留/删除元素 → 放弃不必要内容 → 大幅留白 → 印刷语言重新表达
+- **色彩**：少量色块、克制配色、印刷色感
+- **质感**：纸张、网点、套印、漏墨等印刷语言
+- **故事感**：极简、记忆点、设计感、印刷美学
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_art-poster.png" alt="纪念堂艺术海报风格" width="45%">
+
+*左：原图 | 右：艺术海报风格*
+
+<img src="examples/dogs-photo.jpg" alt="狗狗原图" width="45%"> <img src="examples/dogs-art-poster.png" alt="狗狗艺术海报风格" width="45%">
+
+*左：原图 | 右：艺术海报风格*
+
+**适用场景：**
+- 建筑、风景、人物、静物
+- 品牌视觉、编辑设计
+
+**风格示例：明信片**
+
+明信片风格是一种温暖治愈的手绘风格：
+
+- **核心特征**：手绘明信片风格插画卡片，放置在温暖柔和的手工纸背景上
+- **背景**：米白色、奶油白或象牙白手工纸背景
+- **插画风格**：彩铅、蜡笔、粉笔、水彩轻涂或儿童绘本式手绘质感
+- **故事感**：温暖、治愈、生活记录感、手作感、复古感
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_postcard.png" alt="纪念堂明信片风格" width="45%">
+
+*左：原图 | 右：明信片风格*
+
+<img src="examples/dogs-photo.jpg" alt="狗狗原图" width="45%"> <img src="examples/dogs-postcard.png" alt="狗狗明信片风格" width="45%">
+
+*左：原图 | 右：明信片风格*
+
+**适用场景：**
+- 动物、人物、植物、建筑
+- 食物、静物、生活场景
+
+**风格示例：水墨插画**
+
+水墨插画风格是一种随性水墨气韵的扁平重构风格：
+
+- **核心特征**：米白哑光特种纸质感的水墨扁平重构插画，保留原图整体色彩调性
+- **造型**：景物简化为松弛柔和的块面造型，分层平涂搭配随性淡墨晕染笔触
+- **构图**：大面积留白，主体放置居中偏上位置
+- **故事感**：随性水墨气韵、干净克制的学术质感、东方美学
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_ink-illustration.png" alt="纪念堂水墨插画风格" width="45%">
+
+*左：原图 | 右：水墨插画风格*
+
+<img src="examples/dogs-photo.jpg" alt="狗狗原图" width="45%"> <img src="examples/dogs-ink-illustration.png" alt="狗狗水墨插画风格" width="45%">
+
+*左：原图 | 右：水墨插画风格*
+
+<img src="examples/shanghai-photo.jpg" alt="上海天际线原图" width="45%"> <img src="examples/shanghai-ink-illustration.png" alt="上海水墨插画风格" width="45%">
+
+*左：原图 | 右：水墨插画风格*
+
+**适用场景：**
+- 建筑、风景、人物、静物
+- 东方美学主题
+
+**风格示例：蜡笔涂鸦**
+
+蜡笔涂鸦风格是一种童趣天真的手绘风格：
+
+- **视觉特征**：粗犷笔触、蜡质肌理、涂抹痕迹、儿童画感
+- **色彩**：柔和淡雅、蜡笔特有的颜色质感
+- **质感**：蜡质光泽、颗粒感、涂抹重叠、纸张纹理
+- **故事感**：童趣、天真、童年记忆、纯真
+
+<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_crayon.png" alt="纪念堂蜡笔涂鸦风格" width="45%">
+
+*左：原图 | 右：蜡笔涂鸦风格*
+
+<img src="examples/shanghai-photo.jpg" alt="上海天际线原图" width="45%"> <img src="examples/shanghai-crayon.png" alt="上海蜡笔涂鸦风格" width="45%">
+
+*左：原图 | 右：蜡笔涂鸦风格*
+
+**适用场景：**
+- 风景、人物、静物
+- 儿童主题
 
 ## 风格选择指南
 
