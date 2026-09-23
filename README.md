@@ -61,6 +61,12 @@
 
 *左：原图 | 右：东方故事风格*
 
+**香港 / Hong Kong**
+
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_东方故事.png" alt="香港东方故事风格" width="45%">
+
+*左：原图 | 右：东方故事风格*
+
 
 **风格示例：只此青绿**
 
@@ -76,6 +82,16 @@
 
 *左：原图 | 右：只此青绿风格*
 
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_只此青绿.png" alt="香港只此青绿风格" width="45%">
+
+*左：原图 | 右：只此青绿风格*
+
+**风格示例：中国写意**
+
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_中国写意.png" alt="香港中国写意风格" width="45%">
+
+*左：原图 | 右：中国写意风格*
+
 **风格示例：水墨写意**
 
 <img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story_inkwash.png" alt="山景水墨写意风格" width="45%">
@@ -83,10 +99,6 @@
 *左：原图 | 右：水墨写意风格*
 
 <img src="examples/Raffles-photo.jpg" alt="来福士原图" width="45%"> <img src="examples/Raffles-story_shuimo.png" alt="来福士水墨风格" width="45%">
-
-*左：原图 | 右：水墨风格*
-
-<img src="examples/shanghai-photo.jpg" alt="上海天际线原图" width="45%"> <img src="examples/shanghai-story_shuimo.png" alt="上海水墨风格" width="45%">
 
 *左：原图 | 右：水墨风格*
 
@@ -101,6 +113,18 @@
 <img src="examples/Raffles-photo.jpg" alt="来福士原图" width="45%"> <img src="examples/Raffles-story_mogu.png" alt="来福士没骨画风格" width="45%">
 
 *左：原图 | 右：没骨画风格*
+
+**风格示例：金箔压纸**
+
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_金箔压纸.png" alt="香港金箔压纸风格" width="45%">
+
+*左：原图 | 右：金箔压纸风格*
+
+**风格示例：符号记忆**
+
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_符号记忆.png" alt="香港符号记忆风格" width="45%">
+
+*左：原图 | 右：符号记忆风格*
 
 ### 时间质感
 
@@ -118,10 +142,6 @@
 *左：原图 | 右：泛黄信纸风格*
 
 **风格示例：写实电影**
-
-<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_cinematic.png" alt="纪念堂写实电影风格" width="45%">
-
-*左：原图 | 右：写实电影风格*
 
 <img src="examples/dogs-photo.jpg" alt="狗狗原图" width="45%"> <img src="examples/dogs-cinematic.png" alt="狗狗写实电影风格" width="45%">
 
@@ -153,23 +173,15 @@
 
 *左：原图 | 右：铅笔画风格*
 
-**风格示例：炭笔画**
-
-<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_charcoal.png" alt="纪念堂炭笔画风格" width="45%">
-
-*左：原图 | 右：炭笔画风格*
-
 **风格示例：水彩画**
 
 <img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_watercolor.png" alt="纪念堂水彩画风格" width="45%">
 
 *左：原图 | 右：水彩画风格*
 
-**风格示例：油画**
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_水彩画.png" alt="香港水彩画风格" width="45%">
 
-<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_oilpainting.png" alt="纪念堂油画风格" width="45%">
-
-*左：原图 | 右：油画风格*
+*左：原图 | 右：水彩画风格*
 
 ### 印刷质感
 
@@ -181,7 +193,7 @@
 
 **风格示例：木刻版画**
 
-<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_woodcut.png" alt="纪念堂木刻版画风格" width="45%">
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_木刻版画.png" alt="香港木刻版画风格" width="45%">
 
 *左：原图 | 右：木刻版画风格*
 
@@ -214,6 +226,12 @@
 
 *左：原图 | 右：剪纸风格*
 
+**风格示例：毛线编织**
+
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_毛线编织.png" alt="香港毛线编织风格" width="45%">
+
+*左：原图 | 右：毛线编织风格*
+
 ### 编辑设计风格
 
 | 风格 | 特征 | 故事感 |
@@ -230,6 +248,24 @@
 | 贝壳像素 | 贝壳质感像素、规则几何、渐进消隐、小尺度章印、大面积留白 | 天然材料、温和、治愈、艺术拼贴 |
 | 几何骨架 | 几何架构、图形转译、拓印质感、大面积留白、传统文化与现代设计 | 寓意先行、图形克制、几何严谨 |
 | 纸面叙事 | 摄影二创、第二世界、视觉结构、手绘人物互动、自然旁白 | 发现本质、独立杂志感、轻微手工拼贴 |
+
+**风格示例：鎏金徽章**
+
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_鎏金徽章.png" alt="香港鎏金徽章风格" width="45%">
+
+*左：原图 | 右：鎏金徽章风格*
+
+**风格示例：手绘插画**
+
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_手绘插画.png" alt="香港手绘插画风格" width="45%">
+
+*左：原图 | 右：手绘插画风格*
+
+**风格示例：稚拙插画**
+
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_稚拙插画.png" alt="香港稚拙插画风格" width="45%">
+
+*左：原图 | 右：稚拙插画风格*
 
 ### 插画风格
 
@@ -272,9 +308,6 @@
 - **文字**：2-6字中文主标题 + 8-18字中文副文
 - **故事感**：报纸美学、艺术出版、极简克制
 
-<img src="examples/dogs-photo.jpg" alt="狗狗原图" width="45%"> <img src="examples/dogs-color-print-poster.png" alt="狗狗彩印海报风格" width="45%">
-
-*左：原图 | 右：彩印海报风格*
 
 <img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_colorprint.png" alt="纪念堂彩印海报风格" width="45%">
 
@@ -284,9 +317,6 @@
 
 *左：原图 | 右：彩印海报风格*
 
-<img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story_color-print-poster.png" alt="山景彩印海报风格" width="45%">
-
-*左：原图 | 右：彩印海报风格*
 
 **适用场景：**
 - 人物、建筑、风景、新闻摄影
@@ -336,12 +366,6 @@
 |-----|------|-------|
 | 像素艺术 | 可见像素块、低分辨率 | 复古游戏、数字记忆 |
 | 马赛克 | 贝壳矿物像素、规则方块、构图稳定、大面积留白、天然质感 | 简约高级、安静治愈、当代材料艺术 |
-
-**风格示例：像素艺术**
-
-<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_pixel.png" alt="纪念堂像素艺术风格" width="45%">
-
-*左：原图 | 右：像素艺术风格*
 
 ### 动漫质感
 
@@ -582,6 +606,10 @@
 
 *左：原图 | 右：艺术海报风格*
 
+<img src="examples/hk_story.jpg" alt="香港原图" width="45%"> <img src="examples/hk_艺术海报.png" alt="香港艺术海报风格" width="45%">
+
+*左：原图 | 右：艺术海报风格*
+
 **适用场景：**
 - 建筑、风景、人物、静物
 - 品牌视觉、编辑设计
@@ -740,37 +768,6 @@ MBE插画风格是一种现代简约的扁平风格：
 **适用场景：**
 - 人物肖像、动物主题、风景场景、主题场景
 
-**风格示例：彩印海报**
-
-彩印海报风格是一种极简丝网版画 + Halftone 半调网点印刷的艺术出版风格：
-
-- **核心特征**：极简丝网版画 + Halftone 半调网点印刷，模拟艺术出版物
-- **基础原则**：不描图、不矢量化、不套滤镜
-- **构图**：单主体、单方向，重视负空间留白，只建立一个视觉中心
-- **配色**：仅限2-3种专色，米白/暖灰纸底色，原图提取沉静主墨色
-- **网点处理**：明暗、虚实、过渡只用网点疏密大小实现，禁用模糊、渐变
-- **质感**：保留纸张纤维、油墨颗粒、轻微套色错位质感
-- **文字**：2-6字中文主标题 + 8-18字中文副文
-- **故事感**：报纸美学、艺术出版、极简克制
-
-<img src="examples/dogs-photo.jpg" alt="狗狗原图" width="45%"> <img src="examples/dogs-color-print-poster.png" alt="狗狗彩印海报风格" width="45%">
-
-*左：原图 | 右：彩印海报风格*
-
-<img src="examples/Memorial-Hall-photo.jpg" alt="纪念堂原图" width="45%"> <img src="examples/Memorial-Hall-story_colorprint.png" alt="纪念堂彩印海报风格" width="45%">
-
-*左：原图 | 右：彩印海报风格*
-
-<img src="examples/shanghai-photo.jpg" alt="上海天际线原图" width="45%"> <img src="examples/shanghai-story_colorprint.png" alt="上海彩印海报风格" width="45%">
-
-*左：原图 | 右：彩印海报风格*
-
-<img src="examples/Mountain-photo.jpg" alt="山景原图" width="45%"> <img src="examples/Mountain-story_color-print-poster.png" alt="山景彩印海报风格" width="45%">
-
-*左：原图 | 右：彩印海报风格*
-
-**适用场景：**
-- 人物、建筑、风景、新闻摄影
 
 **风格示例：禅意简笔画**
 
